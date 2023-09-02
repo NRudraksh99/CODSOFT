@@ -1,6 +1,6 @@
 package CodSoft;
 import java.util.Scanner;
-public class AvgPercentage {
+public class StudentGradeCalculator {
     static double sum(double[] y,int r){
         double s=0d;
         for(int i=0;i<r;i++){
